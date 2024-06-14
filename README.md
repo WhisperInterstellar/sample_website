@@ -4,7 +4,7 @@
 <title>READMEEE</title>
 </head>
 <body>
-<h1>This is <emphasis>totally</emphasis> a README!</h1>
+<h1>This is <em>totally</em> a README!</h1>
 <p>I'm just using this to learn the basics.</p>
 <p>Don't mind me.</p>
 </body>
